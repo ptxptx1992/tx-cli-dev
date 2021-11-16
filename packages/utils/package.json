@@ -1,6 +1,6 @@
 {
   "name": "@tx-cli-dev/utils",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "pangtianxiao <pangtianxiao@jd.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "52a2c8a5f9625b232f4f6dea3ffe5642193f4dd9"
+  "gitHead": "9b9ad6143033403bcafdd65aced501c4bf858e06"
 }

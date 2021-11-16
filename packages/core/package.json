@@ -1,6 +1,6 @@
 {
   "name": "@tx-cli-dev/core",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "core",
   "author": "pangtianxiao <pangtianxiao@jd.com>",
   "homepage": "",
@@ -25,5 +25,5 @@
   "dependencies": {
     "@tx-cli-dev/utils": "^0.0.4"
   },
-  "gitHead": "52a2c8a5f9625b232f4f6dea3ffe5642193f4dd9"
+  "gitHead": "9b9ad6143033403bcafdd65aced501c4bf858e06"
 }
