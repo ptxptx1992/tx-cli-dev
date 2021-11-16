@@ -1,13 +1,13 @@
 {
   "name": "@tx-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "core",
   "author": "pangtianxiao <pangtianxiao@jd.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "tx-cli-dev":"bin/index.js"
+  "bin": {
+    "tx-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@tx-cli-dev/utils": "^0.0.1"
+    "@tx-cli-dev/utils": "^0.0.2"
   },
   "gitHead": "f2aa67796f3ce29ba478ab11ee5fac985d1e34c4"
 }
